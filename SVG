@@ -1,1 +1,28 @@
+SVG stands for Scalable Vector Graphics.
+------------------
+SVG Shapes:
 
+Rectangle <rect>
+Circle <circle>
+Ellipse <ellipse>
+Line <line>
+Polyline <polyline>
+Polygon <polygon>
+Path <path>
+------------------
+SVG Path - <path>
+The following commands are available for path data:
+
+M = moveto
+L = lineto
+H = horizontal lineto
+V = vertical lineto
+C = curveto
+S = smooth curveto
+Q = quadratic Bézier curve
+T = smooth quadratic Bézier curveto
+A = elliptical Arc
+Z = closepath
+------------------
+<a href="https://codepen.io/tantata/pen/wdZewz">tuk</a>
+------------------
